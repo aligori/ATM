@@ -1,0 +1,14 @@
+17327837
+Deposit amount: 500.0 Previous Balance: 15.0 Actual balance: 515.0 Date: Wed Dec 11 00:34:19 CET 2019
+45685437
+Transfer+ amount: 100.0 Previous Balance: 500.0 Actual balance: 600.0 Date: Wed Dec 11 00:34:50 CET 2019
+17327837
+Transfer- amount: 100.0 Previous Balance: 515.0 Actual balance: 415.0 Date: Wed Dec 11 00:34:50 CET 2019
+17327837
+Deposit amount: 50.0 Previous Balance: 415.0 Actual balance: 465.0 Date: Wed Dec 11 00:35:29 CET 2019
+45685437
+Transfer+ amount: 100.0 Previous Balance: 600.0 Actual balance: 700.0 Date: Wed Dec 11 00:37:23 CET 2019
+65435677
+Transfer- amount: 100.0 Previous Balance: 600.0 Actual balance: 500.0 Date: Wed Dec 11 00:37:23 CET 2019
+45685437
+Deposit amount: 50.0 Previous Balance: 700.0 Actual balance: 750.0 Date: Wed Dec 11 00:38:52 CET 2019
